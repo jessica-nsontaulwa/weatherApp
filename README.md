@@ -68,15 +68,3 @@ CREATE TABLE weatherHistory (
     Country VARCHAR(10),
     dateSearched TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );```
-
-
-
-
-
-
-
-
-
-
-
-    
