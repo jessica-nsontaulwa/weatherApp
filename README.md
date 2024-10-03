@@ -32,7 +32,7 @@ A simple PHP-based weather application that allows users to check the current we
 
 5. Update the `dbConn.php` file with your MySQL database credentials:
     ```php
-    $conn = new mysqli('localhost', 'username', 'password', 'weather_app');
+    $conn = new mysqli('localhost', 'username', 'password', 'weatherApp');
     ```
 6. Ensure that PHP’s `cURL` extension is enabled in your `php.ini` file.
 
