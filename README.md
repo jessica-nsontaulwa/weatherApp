@@ -38,7 +38,7 @@ A simple PHP-based weather application that allows users to check the current we
 
 ## Usage
 
-1. Open the project in your browser by navigating to `http://localhost/weather-app`.
+1. Open the project in your browser by navigating to `http://localhost/weatherApp`.
 
 2. Input a city and the country code (2-letter ISO) to fetch the current weather data and 16-day forecast.
 
